@@ -7,6 +7,7 @@
 - 💪 2022 Goals: Learn as much as I can!
 - 🤫 Fun fact: I love illustrating and writing!
 
+### 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notanoobcoder&layout=compact"/>
 
 ### Languages and Tools:
